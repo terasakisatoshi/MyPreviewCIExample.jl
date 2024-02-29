@@ -20,4 +20,5 @@ makedocs(;
 deploydocs(;
     repo="github.com/terasakisatoshi/MyPreviewCIExample.jl",
     devbranch="main",
+    push_preview=true,
 )
