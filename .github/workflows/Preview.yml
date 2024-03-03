@@ -1,4 +1,4 @@
-name: CI
+name: PreviewPages
 on:
   #push:
   #  branches:
