@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = MyPreviewCIExample","category":"page"},{"location":"#MyPreviewCIExample","page":"Home","title":"MyPreviewCIExample","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for MyPreviewCIExample.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [MyPreviewCIExample]","category":"page"},{"location":"","page":"Home","title":"Home","text":"Hello World!","category":"page"}]
+}
